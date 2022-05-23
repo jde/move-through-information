@@ -26,7 +26,8 @@ export default function Home() {
       <footer className={styles.footer}>
         <a
           href="https://powersimple.com"
-          target="_blank"
+                  target="_blank"
+                  rel="noreferrer"
         >
           <span className={styles.logo}>
             <Image src="/img/powersimple-logo-white.jpg" alt="Powersimple Logo" width={72} height={72} />
